@@ -2,8 +2,9 @@
 
 ### **Contact**
 
+- Telegram: [alkihuri](https://t.me/alkihuri)
 - Email: [alkihuri@gmail.com](mailto:alkihuri@gmail.com)
-- Portfolio: [Behance](https://www.behance.net/alkihuri) / [GitHub](https://github.com/alkihuri) / [Portfolio](https://www.canva.com/design/DAFXM4sg1js/96Dcw5otovRxzSQTQT9a1g/edit)
+- Portfolio: [Behance](https://www.behance.net/alkihuri) / [Presentation](https://www.canva.com/design/DAFXM4sg1js/96Dcw5otovRxzSQTQT9a1g/edit)
 
 ### **Languages**
 
@@ -27,6 +28,18 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 ---
 
+### **Notable Projects**
+
+- **3D Sim [Tecan](https://advalange.com/clients/tecan/3dsim):** Simulation of medical devices to accelerate development and reduce costs.
+- **Moto Sim:** VR motorcycle simulator for professional training.
+- **VR Football:** Oculus VR multiplayer experience focusing on physics and interactivity.
+- **[ICSI-TVOR VR Simulator](https://www.behance.net/gallery/177295841/VR-EMBRYO):** VR simulation for gynecological training.
+- **[Tinkoff Games](https://www.behance.net/gallery/184411589/TINKOFF-ACTIVITIES):** Developed four games for exhibition use.
+- **Voronezh Exhibition Games:** Led web development for four games showcased in Voronezh. 40,000+ user interactions at exhibitions.
+- **[ROSATOM Demo Presentation](https://www.behance.net/gallery/185208741/ROSATOM-Belarusian-Nuclear-Power-Plant-project):** Interactive presentation for the Belarusian nuclear power plant project.
+
+---
+ 
 ### **Work Experience**
 
 #### **Unity Developer / Team Lead**
@@ -81,27 +94,4 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 ---
 
-### **Notable Projects**
-
-- **3D Sim [Tecan](https://advalange.com/clients/tecan/3dsim):** Simulation of medical devices to accelerate development and reduce costs.
-- **Moto Sim:** VR motorcycle simulator for professional training.
-- **VR Football:** Oculus VR multiplayer experience focusing on physics and interactivity.
-- **ICSI-TVOR VR Simulator:** VR simulation for gynecological training.
-- **Tinkoff Games:** Developed four games for exhibition use.
-- **Voronezh Exhibition Games:** Led web development for four games showcased in Voronezh.
-- **ROSATOM Demo Presentation:** Interactive presentation for the Belarusian nuclear power plant project.
-
----
-
-### **Achievements**
-
-- Recognized as “Best Technical Lead” for VRMoto development.
-- Published research in international journals on Geophysics and mathematical modeling.
-- Managed projects with 10,000+ user interactions at exhibitions.
-
----
-
-### **Personal Philosophy**
-
-I aim to develop realistic simulations of physical processes and create engaging AR/VR games that combine technical accuracy with immersive user experiences.
 
