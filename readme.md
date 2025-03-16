@@ -24,18 +24,24 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 - **Programming Languages:** C#, Python
 - **Technologies:** Unity3D, VR/AR, CI/CD, 3D modeling, REST APIs
-- **Specialized Skills:** Mathematical modeling, Physics simulations, Hardware integration
+- **Specialized Skills:** Creating complex interactive systems, high-precision simulation solutions, mathematical modeling calculations, performance optimization, and hardware/software integration.
 
 ---
 
 ### **Notable Projects**
 
 - **3D Sim [Tecan](https://advalange.com/clients/tecan/3dsim):** Simulation of medical devices to accelerate development and reduce costs.
-- **Moto Sim:** VR motorcycle simulator for professional training.
+
+- **Moto Sim:** VR motorcycle simulator for professional trainings.
+
 - **VR Football:** Oculus VR multiplayer experience focusing on physics and interactivity.
+
 - **[ICSI-TVOR VR Simulator](https://www.behance.net/gallery/177295841/VR-EMBRYO):** VR simulation for gynecological training.
-- **[Tinkoff Games](https://www.behance.net/gallery/184411589/TINKOFF-ACTIVITIES):** Developed four games for exhibition use. [Project won 2nd place in the "Best Interactive Stand" category at the International Festival of Event Marketing and Communications BEMA]("https://bemafestival.ru/winners/t-bank-integracziya-v-it-piknik/")
+
+- **[Tinkoff Games](https://www.behance.net/gallery/184411589/TINKOFF-ACTIVITIES):** Developed four games for exhibition use. [Project won 2nd place in the "Best Interactive Stand" category at the International Festival of Event Marketing and Communications BEMA](https://bemafestival.ru/winners/t-bank-integracziya-v-it-piknik/)
+
 - **Voronezh Exhibition Games:** Led web development for four games showcased in Voronezh. 40,000+ user interactions at exhibitions. [Project won 3rd place in the "Best Interactive Stand" category at the International Festival of Event Marketing and Communications BEMA](https://bemafestival.ru/winners/vystavochnyj-stend-voronezhskoj-oblasti-na-forume-vystavke-rossiya-na-vdnh)
+
 - **[ROSATOM Demo Presentation](https://www.behance.net/gallery/185208741/ROSATOM-Belarusian-Nuclear-Power-Plant-project):** Interactive presentation for the Belarusian nuclear power plant project.
 
 ---
@@ -53,7 +59,7 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 #### **Unity Developer / Team Lead**
 
-**[One Robot](https://www.behance.net/alkihuri)**  
+**[One Robot](https://onerobot.pro/)**  
 **Feb 2023 – Jan 2024**
 
 - Delivered projects such as an IVF simulator, VR tea house quest, and a nuclear plant demo for Rosatom.
@@ -79,7 +85,7 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 #### **Senior Engineer**
 
-**Russian Academy of Science**  
+**[Russian Academy of Science](http://dbgsras.ru/)**  
 **Nov 2016 – Jan 2019**
 
 - Developed WPF applications and conducted seismic research for a hydroelectric station.
