@@ -16,6 +16,8 @@ English ([certificate](https://app.smalltalk2.me/cert/cde7ccb8)), Russian, Avar,
 
 Unity Developer and Tech Lead with over 8 years of experience in simulation, VR/AR applications, and game development. Proficient in Unity3D, C#, and team management. Delivered projects for clients such as Tinkoff, Rosatom, Yandex.Market, and Tecan. Experienced in mentoring developers, managing sprints, and conducting scientific research.
 
+
+
 Created a Unity course with 72 lessons and a three-year ASP.NET backend development course for students aged 15–18.
 
 ---
@@ -23,7 +25,7 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 ### **Hard Skills**
 
 - **Programming Languages:** C#, Python
-- **Technologies:** Unity3D, VR/AR, CI/CD, 3D modeling, REST APIs
+- **Technologies:** Unity3D, VR/AR, CI/CD, 3D modeling, REST APIs, .NET, QA, SpecFlow, Blender.
 - **Specialized Skills:** Creating complex interactive systems, high-precision simulation solutions, mathematical modeling calculations, performance optimization, and hardware/software integration.
 
 ---
@@ -83,7 +85,7 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 **[Advalange](https://advalange.com/clients/tecan/3dsim)**  
 **Oct 2020 – Oct 2021**
 
-- Simulated medical device operations for Tecan with precision better than 0.01% and latencies under 10ms, enabling realistic training and testing environments for medical professionals who worked on researching COVID-19 issues.
+- Simulated medical device operations for Tecan with precision better than 0.01% and latencies under 10ms, enabling realistic training and testing environments for medical professionals who worked on researching COVID-19.
 - Fixed errors using SonarQube and created SpecFlow tests. 
 
 #### **Senior Engineer**
@@ -92,7 +94,8 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 **Nov 2016 – Jan 2019**
 
 - Developed WPF C# / Python / Qt  C++ applications that allow reducing the time for calculating text bulletins from seismic stations by tens of times.
-- ublished 2 scientific papers on the results of the study of the Chirkey hydroelectric power station Europe’s largest hydroelectric station.
+- Published 2 scientific papers on the results of the study of the Chirkey hydroelectric power station Europe’s largest hydroelectric station.
+- Conducted engineering research of Chirkey H.P.S.  as part of cooperation with RusHydro.
 
 ---
 
