@@ -8,7 +8,7 @@
 
 ### **Languages**
 
-English ([certificate](https://app.smalltalk2.me/cert/cde7ccb8)), Russian, Avar, Arabic, Greek
+English ([certificate](https://app.smalltalk2.me/cert/cde7ccb8)), Russian, Avar, Arabic, Greek, Serbian
 
 ---
 
@@ -53,43 +53,46 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 **[Blockchain Sports](https://bcsports.io/)**  
 **Feb 2024 – Present**
 
-- Developed VR projects, including VRMoto and VR Football for Oculus VR.
-- Created tools for playback systems, collision detection, and bone deviation systems.
-- Managed team planning and feature development.
+- Led VR projects, including VRMoto and VR Football, focusing on immersive and interactive experiences.
+- Designed and implemented tools for playback systems, collision detection, and bone deviation systems.
+- Conducted extensive research on bone deviation data, which was used to train neural network models for motion analysis and prediction.
+- Managed team planning, feature development, and ensured timely delivery of high-quality VR solutions..
+
 
 #### **Unity Developer / Team Lead**
 
 **[One Robot](https://onerobot.pro/)**  
 **Feb 2023 – Jan 2024**
 
-- Delivered projects such as an IVF simulator, VR tea house quest, and a nuclear plant demo for Rosatom.
-- Developed games for Tinkoff Bank and exhibition games for the Voronezh region.
-- Implemented hardware integration and CI/CD pipelines.
+- Led the team and developed the Belarus NPP: Interactive Educational Demo for ROSATOM, creating a high-precision simulation of nuclear power plant processes for educational purposes. 
+- Led the team and developed 3 games for Tinkoff Bank, which won  2nd place at the BEMA festival.
+- Led and developed 4 games for the biggest Russian expo VDNH (40.000+  launches) , won 3rd place at the BEMA festival.
+- Integrated hardware components and implemented CI/CD pipelines.
 
 #### **Unity Developer / Tech Lead**
 
-**BI Solutions**  
+**[BI Solutions](https://trace-x.ru/about/?ysclid=m8cy77x7q0679441658) / [TC Game Studio](https://tcgs.dev/)**  
 **Dec 2021 – Nov 2022**
 
-- Built a motorcycle driving simulator for professional training.
+- Developed and led a motorcycle driving simulator for training purposes.
 - Conducted physics investigations and designed project architecture.
-- Maintained Git workflows and documentation.
+- Maintained Git workflows and documentation for new developers.
 
 #### **Unity Developer**
 
 **[Advalange](https://advalange.com/clients/tecan/3dsim)**  
 **Oct 2020 – Oct 2021**
 
-- Simulated medical device operations for training purposes.
-- Enhanced code quality using SonarQube and SpecFlow tests.
+- Simulated medical device operations for Tecan with precision better than 0.01% and latencies under 10ms, enabling realistic training and testing environments for medical professionals who worked on researching COVID-19 issues.
+- Fixed errors using SonarQube and created SpecFlow tests. 
 
 #### **Senior Engineer**
 
 **[Russian Academy of Science](http://dbgsras.ru/)**  
 **Nov 2016 – Jan 2019**
 
-- Developed WPF applications and conducted seismic research for a hydroelectric station.
-- Published research in Geophysics and Seismology.
+- Developed WPF C# / Python / Qt  C++ applications that allow reducing the time for calculating text bulletins from seismic stations by tens of times.
+- ublished 2 scientific papers on the results of the study of the Chirkey hydroelectric power station Europe’s largest hydroelectric station.
 
 ---
 
