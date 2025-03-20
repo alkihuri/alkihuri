@@ -32,9 +32,9 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 ### **Notable Projects**
 
-- **3D Sim [Tecan](https://advalange.com/clients/tecan/3dsim):** Simulation of medical devices to accelerate development and reduce costs.
+- **3D Sim [Tecan](https://advalange.com/clients/tecan/3dsim):** Simulated medical device operations for Tecan with precision better than 0.01% and latencies under 10ms, enabling realistic training and testing environments for medical professionals who worked on researching COVID-19.
 
-- **Moto Sim:** VR motorcycle simulator for professional trainings.
+- **[Moto Sim](https://www.youtube.com/watch?v=aUL8V-LuF1M):** Motorcycle simulator for professional trainings. (VR/Desktop/Mobile versions)
 
 - **VR Football:** Oculus VR multiplayer experience focusing on physics and interactivity.
 
@@ -95,7 +95,7 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 - Developed WPF C# / Python / Qt  C++ applications that allow reducing the time for calculating text bulletins from seismic stations by tens of times.
 - Published 2 scientific papers on the results of the study of the Chirkey hydroelectric power station Europe’s largest hydroelectric station.
-- Conducted engineering research of Chirkey H.P.S.  as part of cooperation with RusHydro.
+- Conducted engineering research of Chirkey HPS.  as part of cooperation with RusHydro.
 
 ---
 
