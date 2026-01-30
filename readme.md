@@ -32,6 +32,8 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 ### **Notable Projects**
 
+- **GiaB  [Yggdrasil](https://yggdrasilgaming.com/game-in-a-box)** - Game in a Box is Yggdrasil’s new all-in-one game development platform that brings the entire game creation process into a single, streamlined system. From game design and math configuration to prototyping, testing, and certification, everything happens inside one connected workflow, supported by AI models. 
+
 - **3D Sim [Tecan](https://advalange.com/clients/tecan/3dsim):** Simulated medical device operations for Tecan with precision better than 0.01% and latencies under 10ms, enabling realistic training and testing environments for medical professionals who worked on researching COVID-19.
 
 - **[Moto Sim](https://www.youtube.com/watch?v=aUL8V-LuF1M):** Motorcycle simulator for professional trainings. (VR/Desktop/Mobile versions)
@@ -50,10 +52,23 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
  
 ### **Work Experience**
 
+
+#### **Unity Developer**
+
+**GiaB™  [Yggdrasil](https://yggdrasilgaming.com/game-in-a-box)**
+
+**May 2025 – Present**
+
+- Developed Game in a Box™, a full-cycle slot game creation platform from design to certification.
+- Worked extensively with Spine animations, frontend visual effects, symbols, and game configs.
+- Built in-game debug tools and developer consoles enabling real-time content replacement and tuning for rapid iteration.
+
+
+
 #### **Unity Developer / Team Lead**
 
 **[Blockchain Sports](https://bcsports.io/)**  
-**Feb 2024 – Present**
+**Feb 2024 – April 2025**
 
 - Led VR projects, including VRMoto and VR Football, focusing on immersive and interactive experiences.
 - Designed and implemented tools for playback systems, collision detection, and bone deviation systems.
