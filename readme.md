@@ -57,10 +57,10 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 
 **GiaB™  [Yggdrasil](https://yggdrasilgaming.com/game-in-a-box)**
 
-**May 2025 – Present**
+**May 2025 – March 2026 [B2B]**
 
-- Developed Game in a Box™, a full-cycle slot game creation platform from design to certification.
-- Worked extensively with Spine animations, frontend visual effects, symbols, and game configs.
+- Developed Game in a Box™, a full-cycle  game creation platform from design to certification.
+- Developed editor extensions for artists, enabling independent configuration of game scenes, symbols, effects, and visual assets (spine, png and etc) without developer involvement.
 - Built in-game debug tools and developer consoles enabling real-time content replacement and tuning for rapid iteration.
 
 
