@@ -14,7 +14,7 @@ English ([certificate](https://app.smalltalk2.me/cert/cde7ccb8)), Russian, Avar,
 
 ### **Professional Summary**
 
-Unity Developer and Tech Lead with over 8 years of experience in simulation, VR/AR applications, and game development. Proficient in Unity3D, C#, and team management. Delivered projects for clients such as Tinkoff, Rosatom, Yandex.Market, and Tecan. Experienced in mentoring developers, managing sprints, and conducting scientific research.
+Unity Developer and Tech Lead with over 10 years of experience in simulation, VR/AR applications, and game development. Proficient in Unity3D, C#, and team management. Delivered projects for clients such as T-Bank(Tinkoff), Rosatom, Yggdrasil Gaming,  Yandex.Market, and Tecan. Experienced in mentoring developers, managing sprints, and conducting scientific research.
 
 
 
@@ -25,8 +25,8 @@ Created a Unity course with 72 lessons and a three-year ASP.NET backend developm
 ### **Hard Skills**
 
 - **Programming Languages:** C#, Python
-- **Technologies:** Unity3D, VR/AR, CI/CD, 3D modeling, REST APIs, .NET, QA, SpecFlow, Blender.
-- **Specialized Skills:** Creating complex interactive systems, high-precision simulation solutions, mathematical modeling calculations, performance optimization, and hardware/software integration.
+- **Technologies:** Unity3D, Cocos, VR/AR, Python, CI/CD, 3D modeling, REST APIs, .NET, WPF,QA SpecFlow, Blender, Spine.
+- **Specialized Skills:** Creating complex interactive systems, high-precision simulation solutions, mathematical modeling calculations, performance optimization, hardware/software integration and AI-powered systems.
 
 ---
 
